@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "kataFuncional2026:lib"
+
+    - path: "./test"
+      component: "kataFuncional2026:test:kataFuncional2026-test"
