@@ -4,7 +4,7 @@
 ## Integrante
 
 
-- integrante1 (usuario github)
+- (completar nombre y usuario github)
 
 
 ## Objetivos
@@ -29,6 +29,3 @@ Implementar la función `nivelDeCool` la cual permite determinar que tan cool es
 - Nivel 2: Si no cumple lo anterior, pero el nombre de su serie favorita tiene igual o más caracteres que su propio nombre.
 - Nivel 0: Si su serie favorita es "Gravity Falls" (sabemos que pensabas que era cool, pero no lo es).
 - Nivel 1: Para cualquier otro caso.
-
-
-También debe desarrollar los tests unitarios tomando en cuenta las clases de equivalencia.
